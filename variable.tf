@@ -1,7 +1,7 @@
 variable "project"{
 
 }
-variable "env"{
+variable "enviroments"{
 
 }
 variable "vpc_tags"{
